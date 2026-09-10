@@ -242,3 +242,6 @@ This repository serves as the official landing page for METV. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of METV today!**
+
+---
+**Last updated:** 2026-09-10 14:53:59 UTC
